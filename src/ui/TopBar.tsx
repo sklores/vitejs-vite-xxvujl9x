@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 /** Open‑Meteo (no API key) for ZIP 20006 (approx lat/lon) */
 const LAT = 38.900;
